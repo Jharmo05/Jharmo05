@@ -67,18 +67,22 @@ Curious by nature — always learning, always building.
 
 <div align="center">
   
-<a href="https://www.linkedin.com/in/sebastian-ardila-57a85a1ba/" target="_blank">
+<a href="https://www.linkedin.com/in/sebastian-ardila-57a85a1ba/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:jhonsebastian3456@gmail.com" target="_blank">
+
+<a href="mailto:jhonsebastian3456@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://github.com/Jharmo05" target="_blank">
+
+<a href="https://github.com/Jharmo05" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://drive.google.com/drive/search?q=hoja%20de%20vida" target="_blank">
+
+<a href="https://drive.google.com/drive/search?q=hoja%20de%20vida" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-CURRICULUM-00C7B7?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV"/>
 </a>
+
 
 
 </div>
