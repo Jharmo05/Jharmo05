@@ -1,7 +1,5 @@
 <h1 align="center"><b>Hi 👋, I'm Sebastian Ardila 🌟🔥</b> 
 
-<hr>
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; <h2 align="center">🚀 About Me</h2>
 
 <pre align="center">
