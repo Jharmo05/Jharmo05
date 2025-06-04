@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi 👋, 🔥🌟I'm Sebastian Ardila 🌟🔥</b> 
+<h1 align="center"><b>Hi 👋, I'm Sebastian Ardila 🌟🔥</b> 
 
 # &nbsp; <h2 align="center">🚀 About Me</h2>
 
