@@ -71,7 +71,7 @@ Curious by nature — always learning, always building.
   <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:jhonsebastian3456@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:jhonsebastian345@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
