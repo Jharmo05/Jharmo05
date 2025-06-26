@@ -70,7 +70,7 @@ Curious by nature — always learning, always building.
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jharmo05&layout=compact&theme=github_dark"/>
 </p>
 
-<h2 align="center"> 🏆 **GitHub Trophies** 🏅</h2>
+<h2 align="center"> 🏆 GitHub Trophies </h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jharmo05&theme=gruvbox&column=7" alt="GitHub Trophies" />
