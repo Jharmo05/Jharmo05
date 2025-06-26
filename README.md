@@ -63,7 +63,7 @@ Curious by nature — always learning, always building.
 </div>
 <hr>
 
-<h3 align="center">📊 Statistics </h3>
+<h2 align="center">📊 Statistics </h2>
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jharmo05&show_icons=true&theme=github_dark&hide=issues"/>
