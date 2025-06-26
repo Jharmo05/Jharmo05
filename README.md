@@ -63,6 +63,15 @@ Curious by nature — always learning, always building.
 </div>
 <hr>
 
+### 📊 Estadísticas
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jharmo05&show_icons=true&theme=github_dark&hide=issues"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jharmo05&layout=compact&theme=github_dark"/>
+</p>
+
+<hr>
+
 <h2 align="center">🔗 Let's Connect! 🔗</h2>
 
 <div align="center">
