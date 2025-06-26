@@ -79,7 +79,7 @@ Curious by nature — always learning, always building.
   <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1HY8fydITDOAVbhq2vjCbEV4WmNjKVZLL/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+<a href="https://jharmo05.github.io/HOJA-DE-VIDA/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-CURRICULUM-00C7B7?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV"/>
 </a>
 
