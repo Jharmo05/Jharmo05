@@ -3,7 +3,7 @@
 # &nbsp; <h2 align="center">🚀 About Me</h2>
 
 <pre align="center">
-  Aspiring Full Stack Developer with a growing passion for modern web technologies.
+  Full Stack Developer with a growing passion for modern web technologies.
 I enjoy working on both the visual side of the web and the logic behind the scenes.
 Curious by nature — always learning, always building.
 </pre>
